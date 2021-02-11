@@ -18,6 +18,6 @@ The algorithm:
 5. From the list we choose the 5 most relevant links
 
 
-###Plagiarism Screen
+### Plagiarism Screen
 
 ![Olagiarism screen](https://github.com/BlackKakapo/ASDSourcePlagiarism/blob/main/test/Plagiarism%20screen.png?raw=true)
