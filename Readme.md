@@ -19,4 +19,5 @@ The algorithm:
 
 
 ###Plagiarism Screen
+
 ![Olagiarism screen](https://github.com/BlackKakapo/ASDSourcePlagiarism/blob/main/test/Plagiarism%20screen.png?raw=true)
